@@ -1,9 +1,11 @@
-body {
-   text-align: center; 
+#body {
+   text-align: center;
+   background-color: #212F3C;
+   color: white;
 }
 
 button#rushButton {
-    background-color:;
+     
 }
 #top {
 
@@ -12,5 +14,8 @@ button#rushButton {
     
 }
 #rush {
+    background-color: grey;
+    width:50%;
+    right: 50px;
     
-}
+} 
